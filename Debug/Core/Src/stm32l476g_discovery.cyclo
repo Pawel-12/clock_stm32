@@ -1,0 +1,10 @@
+../Core/Src/stm32l476g_discovery.c:274:10:BSP_GetVersion	1
+../Core/Src/stm32l476g_discovery.c:286:20:BSP_SupplyModeDetection	2
+../Core/Src/stm32l476g_discovery.c:334:6:BSP_LED_Init	3
+../Core/Src/stm32l476g_discovery.c:371:6:BSP_LED_DeInit	3
+../Core/Src/stm32l476g_discovery.c:398:6:BSP_LED_On	1
+../Core/Src/stm32l476g_discovery.c:422:6:BSP_LED_Off	1
+../Core/Src/stm32l476g_discovery.c:446:6:BSP_LED_Toggle	1
+../Core/Src/stm32l476g_discovery.c:460:9:BSP_JOY_Init	9
+../Core/Src/stm32l476g_discovery.c:500:6:BSP_JOY_DeInit	7
+../Core/Src/stm32l476g_discovery.c:525:18:BSP_JOY_GetState	3
